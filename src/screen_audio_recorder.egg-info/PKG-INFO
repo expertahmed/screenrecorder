@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: screen_audio_recorder
+Version: 0.1
+Requires-Dist: pyqt5
+Requires-Dist: pyaudio
+Requires-Dist: pydub
+Requires-Dist: opencv-python
+Requires-Dist: requests

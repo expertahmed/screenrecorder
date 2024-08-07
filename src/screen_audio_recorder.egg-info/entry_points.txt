@@ -1,0 +1,2 @@
+[console_scripts]
+screen_audio_recorder = main:main

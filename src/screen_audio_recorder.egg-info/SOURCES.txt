@@ -1,0 +1,7 @@
+setup.py
+src/screen_audio_recorder.egg-info/PKG-INFO
+src/screen_audio_recorder.egg-info/SOURCES.txt
+src/screen_audio_recorder.egg-info/dependency_links.txt
+src/screen_audio_recorder.egg-info/entry_points.txt
+src/screen_audio_recorder.egg-info/requires.txt
+src/screen_audio_recorder.egg-info/top_level.txt
