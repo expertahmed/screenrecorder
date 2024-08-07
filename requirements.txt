@@ -1,0 +1,10 @@
+PyQt5
+opencv-python
+pyaudio
+Pillow
+pydub
+setuptools
+requests
+moviepy
+pyautogui
+install_requires
